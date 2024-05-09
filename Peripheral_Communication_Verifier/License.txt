@@ -1,0 +1,10 @@
+Thank you for trying Serial Comms
+========================================
+Serial Comms Version 1.0.0.0 License Agreement
+=============================================
+One licensed copy of serial comms may either be used by a single person 
+who uses the software personally on one or more computers, or installed 
+on a single workstation used non-simultaneously by multiple people, but not both. 
+You may access the licensed copy of Serial Comms through a network, provided 
+that you have obtained individual licenses for the software covering all workstations 
+that will access the software through the network.
